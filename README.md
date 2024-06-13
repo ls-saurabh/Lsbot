@@ -1,2 +1,2 @@
 # Lsbot
-This program is developed by the using python.
+This program is developed by using python.
