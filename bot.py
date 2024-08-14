@@ -1,3 +1,4 @@
+"""
 import socket
 import subprocess
 
@@ -37,3 +38,7 @@ def execute_command(command):
 
 if __name__ == "__main__":
     main()
+
+"""
+
+
